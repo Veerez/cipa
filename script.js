@@ -589,7 +589,7 @@ scene.add(planet);
 const ringTexts = [
   'Selamat Ulang tahun Mas Syifa',//untuk deskripsi planet layer 1
   "Semoga Panjang Umur",//untuk deskripsi planet layer 2
-  "Semoga Kedepannya Hanya Hal Baik Yang Terjadi",//untuk deskripsi planet layer 3
+  "Semoga Kedepannya Banyak Hal Baik Yang Terjadi",//untuk deskripsi planet layer 3
   "11/08/2025",//untuk deskripsi planet layer 4
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
